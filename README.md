@@ -315,6 +315,19 @@ I found the pict library which works with things that racket can output in the c
 (pict-convert (circle 20))
 
 ```
+Output:
+
+![image](https://cloud.githubusercontent.com/assets/7563723/6933438/73f89ea0-d7f5-11e4-9724-9096e0d0c9d2.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933442/820cb594-d7f5-11e4-96fa-742b6bef0cc4.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933445/864cc8ec-d7f5-11e4-80f8-cc9e9ecb38ae.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933447/8abe9144-d7f5-11e4-9116-77f42e5977ae.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933448/8d9aa11e-d7f5-11e4-894a-a34639cc4d7f.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933449/918a57b0-d7f5-11e4-9aba-f13a5ad52771.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933450/94d61008-d7f5-11e4-9070-fcd26d9a2666.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933451/979b6194-d7f5-11e4-84ea-6911e0265d19.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933452/99e0b382-d7f5-11e4-8ed3-53db2b525fc6.png)
+![image](https://cloud.githubusercontent.com/assets/7563723/6933454/9d5ab2b0-d7f5-11e4-82ed-ea7d1389c26b.png)
+
 
 ### How to Do and Submit this assignment
 
